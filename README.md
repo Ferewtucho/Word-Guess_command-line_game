@@ -2,6 +2,7 @@
 
 Node.js based hangman-type word guessing game.
 <img src ="wordGuess.gif" width="500" height="300"/>
+<br>
 <h3>Geting started:-</h3>
 <ol>
 <li>Clone the repository on your local machine
